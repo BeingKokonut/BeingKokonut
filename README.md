@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeingKokonut
-- 👀 I’m interested in game devving
-- 🌱 I’m currently learning the basics of GitHub
+- 👀 I’m interested in development along with other stuff
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - base#9245 on Discord
 
